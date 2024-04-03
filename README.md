@@ -119,6 +119,7 @@
 
 ###
 
+<h3>⌨ Contributions in the last 365 days </h3>
 <img src="https://raw.githubusercontent.com/musiolmarco/musiolmarco/output/snake.svg" alt="Snake animation" />
 
 ###
