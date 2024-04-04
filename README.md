@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">- 🧑🏻 21 years old<br>- 🏬 Working at MPF Medicalprodukte Vertrieb Flensburg GmbH<br>- 📍 NRW, Germany</p>
+<p align="left">🧑🏻 21 years old<br>🏬 Working at MPF Medicalprodukte Vertrieb Flensburg GmbH<br>📍 NRW, Germany</p>
 
 ###
 
